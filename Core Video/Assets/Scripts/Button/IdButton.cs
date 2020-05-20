@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// hernando
+// Fredy reyes
 
 public class IdButton 
 {
